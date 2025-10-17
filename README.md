@@ -1,8 +1,37 @@
 # Amazon-prime-video-dashboard-powerBI
-Project Overview:
- This interactive Power BI dashboard analyzes Amazon Prime Video content, providing insights into movies and TV shows by:
+(1) Project Overview:
+   This interactive Power BI dashboard analyzes Amazon Prime Video content, providing insights into movies and TV shows by:
   *Ratings distribution
   *Content type (Movie vs. TV Show)
   *Release year trends
   *Genre and director counts
   *Country-wise availability
+
+(2) Dataset:
+ Source: Kaggle – Amazon Prime Movies and TV Shows
+ Format: CSV (amazon_prime_titles.csv)
+ Key Columns:
+ *title – Name of the movie/TV show
+ *rating – Age rating (PG, PG-13, 13+, etc.)
+ *genres – Genre(s) of content
+ *directors – Director(s)
+ *release_year – Year of release
+ *country 
+
+(3) Key Insights
+ *Total of 672 titles, 159 genres, 485 directors
+ *Majority are movies (~85%)
+ *Most common ratings: 13+ and 16+
+ *Content is most available in North America & Europe
+ *Rapid content growth after 2000s
+
+
+(4) Dashboard Features
+  *Cards: Total titles, ratings, genres, directors
+  *Bar Chart: Shows by ratings
+  *Column Chart: Movies vs. TV Shows
+  *Line Chart: Shows by release year
+  *Pie Chart: Movie vs. TV Show proportion
+  *Map: Shows by country
+
+  
