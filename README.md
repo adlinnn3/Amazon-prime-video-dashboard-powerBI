@@ -9,14 +9,6 @@
 
 (2) Dataset:
  Source: Kaggle – Amazon Prime Movies and TV Shows
- Format: CSV (amazon_prime_titles.csv)
- Key Columns:
- *title – Name of the movie/TV show
- *rating – Age rating (PG, PG-13, 13+, etc.)
- *genres – Genre(s) of content
- *directors – Director(s)
- *release_year – Year of release
- *country 
 
 (3) Key Insights
  *Total of 672 titles, 159 genres, 485 directors
